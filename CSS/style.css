@@ -1,0 +1,10 @@
+h1:hover {
+    color: blue;
+    font-size: 50px;
+    background-color: brown;}
+
+    @media (max-width :500px){
+        body{
+            
+        }
+    }
